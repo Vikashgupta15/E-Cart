@@ -1,0 +1,74 @@
+[
+    {
+        "id":1,
+        "name":"iPhone 14",
+        "tittle":"This is latest phone for you ",
+        "price":"35,000",
+        "category":"Two year old",
+        "image":"https://cf-img-a-in.tosshub.com/sites/visualstory/wp/2024/06/image-885.png?size=*:900"
+    },
+    {
+        "id":2,
+        "name":"iPhone 14 pro",
+        "tittle":"This is latest phone for you ",
+        "price":"42,000",
+        "category":"Two year old",
+        "image":"https://cf-img-a-in.tosshub.com/sites/visualstory/wp/2024/06/image-885.png?size=*:900"
+    },
+    {
+        "id":3,
+        "name":"iPhone 14 pro Max",
+        "tittle":"This is latest phone for you ",
+        "price":"55,000",
+        "category":"Two year old",
+        "image":"https://cf-img-a-in.tosshub.com/sites/visualstory/wp/2024/06/image-885.png?size=*:900"
+    },
+    {
+        "id":4,
+        "name":"iPhone 15",
+        "tittle":"This is latest phone for you ",
+        "price":"65,000",
+        "category":"One year old",
+        "image":"https://cf-img-a-in.tosshub.com/sites/visualstory/wp/2024/06/image-885.png?size=*:900"
+    },
+    {
+        "id":5,
+        "name":"iPhone 15 Pro",
+        "tittle":"This is latest phone for you ",
+        "price":"72,000",
+        "category":"One year old",
+        "image":"https://cf-img-a-in.tosshub.com/sites/visualstory/wp/2024/06/image-885.png?size=*:900"
+    },
+    {
+        "id":6,
+        "name":"iPhone 15 Pro Max",
+        "tittle":"This is latest phone for you ",
+        "price":"85,000",
+        "category":"One year old",
+        "image":"https://cf-img-a-in.tosshub.com/sites/visualstory/wp/2024/06/image-885.png?size=*:900"
+    },
+    {
+        "id":7,
+        "name":"iPhone 16",
+        "tittle":"This is latest phone for you ",
+        "price":"85,000",
+        "category":"Latest",
+        "image":"https://cf-img-a-in.tosshub.com/sites/visualstory/wp/2024/06/image-885.png?size=*:900"
+    },
+    {
+        "id":8,
+        "name":"iPhone 16 Pro",
+        "tittle":"This is latest phone for you ",
+        "price":"1,05,000",
+        "category":"Latest",
+        "image":"https://cf-img-a-in.tosshub.com/sites/visualstory/wp/2024/06/image-885.png?size=*:900"
+    },
+    {
+        "id":9,
+        "name":"iPhone 16 Pro Max",
+        "tittle":"This is latest phone for you ",
+        "price":"125,000",
+        "category":"Latest",
+        "image":"https://cf-img-a-in.tosshub.com/sites/visualstory/wp/2024/06/image-885.png?size=*:900"
+    }
+]

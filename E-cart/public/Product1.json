@@ -1,0 +1,89 @@
+[
+    {
+        "id":"1",
+        "productCategory": "phone",
+        "productImage": "https://cf-img-a-in.tosshub.com/sites/visualstory/wp/2024/06/image-885.png?size=*:900",
+        "productName": "iphone 16",
+        "productDetail": "If a dog chews shoes whose shoes does he choose?"
+    },
+    {
+        "id":"2",
+        "productCategory": "phone",
+        "productImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRk85QwcWcilz2_zcpJOhIOW19DkOke6cItDw&s",
+        "productName": "iphone 15 Pro",
+        "productDetail": "If a dog chews shoes whose shoes does he choose?"
+    },
+    {
+        "id":"3",
+        "productCategory": "phone",
+        "productImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZtjrg-bChwrLan3q0CD8-ZXhumsuc7-AInw&s",
+        "productName": "iphone 15 pro Max",
+        "productDetail": "If a dog chews shoes whose shoes does he choose?"
+    },
+    {
+        "id":"4",
+        "productCategory": "phone",
+        "productImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRzzAC-GCgalcoWMJ4PtjEbgGQfZzthLszLA&s",
+        "productName": "iphone 16",
+        "productDetail": "If a dog chews shoes whose shoes does he choose?"
+    },
+    {
+        "id":"11",
+        "productCategory": "phone",
+        "productImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRzzAC-GCgalcoWMJ4PtjEbgGQfZzthLszLA&s",
+        "productName": "iphone 16 Pro",
+        "productDetail": "If a dog chews shoes whose shoes does he choose?"
+    },
+    {
+        "id":"12",
+        "productCategory": "phone",
+        "productImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRzzAC-GCgalcoWMJ4PtjEbgGQfZzthLszLA&s",
+        "productName": "iphone 16 Pro Max",
+        "productDetail": "If a dog chews shoes whose shoes does he choose?"
+    },
+
+    
+    {
+        "id":"5",
+        "productCategory": "laptop",
+        "productImage": "https://cdn-iibml.nitrocdn.com/mIsZFyqRlkiNfZRugfIBKtdyexDtafZx/assets/images/optimized/rev-91797e4/www.dealmonday.co.uk/image/cache/catalog/Apple/apple-macbook-air-2024-m3-silver-1-2-800x800.png",
+        "productName": "MacBook Air M2 - 16GB",
+        "productDetail": "If a dog chews shoes whose shoes does he choose?"
+    },
+    {
+        "id":"6",
+        "productCategory": "laptop",
+        "productImage": "https://rentalplaza.in/wp-content/uploads/2023/11/Untitled-design-2023-11-25T122324672.jpg",
+        "productName": "MacBook Air M2 - 8GB",
+        "productDetail": "If a dog chews shoes whose shoes does he choose?"
+    },
+    {
+        "id":"7",
+        "productCategory": "laptop",
+        "productImage": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/mba13-midnight-select-202402?wid=904&hei=840&fmt=jpeg&qlt=90&.v=1708367688034",
+        "productName": "MacBook Air M2 - 16GB",
+        "productDetail": "If a dog chews shoes whose shoes does he choose?"
+    },
+    {
+        "id":"8",
+        "productCategory": "laptop",
+        "productImage": "https://www.designinfo.in/wp-content/uploads/2023/10/Apple-13.6-MacBook-Air-M2-Starlight-1.webp",
+        "productName": "MacBook Air M1 - 16GB",
+        "productDetail": "If a dog chews shoes whose shoes does he choose?"
+    },
+    {
+        "id":"9",
+        "productCategory": "laptop",
+        "productImage": "https://inventstore.in/wp-content/uploads/2023/04/macbook-air-spacegray-selec-600x600-1.webp",
+        "productName": "MacBook Air M1 - 16GB",
+        "productDetail": "If a dog chews shoes whose shoes does he choose?"
+    },
+    {
+        "id":"10",
+        "productCategory": "laptop",
+        "productImage": "https://www.designinfo.in/wp-content/uploads/2023/10/Apple-13.6-MacBook-Air-M2-Silver-1-485x485-optimized.webp",
+        "productName": "MacBook Air M1 - 16GB",
+        "productDetail": "If a dog chews shoes whose shoes does he choose?"
+    }
+
+]
