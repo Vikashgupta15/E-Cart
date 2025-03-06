@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import CartB from "./CartB";
 import axios from "axios";
-import PhoneList from "../../public/Product1.json";
+import phoneList from "../../public/Product1.json";
 
 function ProductModel() {
   const [laptop,setlaptop]= useState([]);
@@ -17,9 +17,9 @@ function ProductModel() {
     }
     getlaptop();
   },[]);
-  const LaptopList = laptop.filter((item) => item.productCategory === "laptop" || item.category === "Latest");
-  const PhoneList = laptop.filter((item) => item.productCategory === "phone");
-  // console.log(PhoneList)
+  const LaptopList = phoneList.filter((item) => item.productCategory === "laptop" || item.category === "Latest");
+  const PhoneList = laptop
+  console.log(laptop)
 
   return (
     <div className="text-black bg-white dark:bg-slate-900 dark:text-slate-300 max-w-screen-2xl mx-auto container  md:px-20 px-4 py-8 mt-20 ">
